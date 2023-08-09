@@ -3,5 +3,6 @@ public class App{
     System.out.println("Meu Primeiro teste");
     System.out.println("Meu Segundo teste");
     System.out.println("Meu teste");
+    System.out.println("Meu teste");
     }
 }
